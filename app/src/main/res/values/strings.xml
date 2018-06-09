@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">meetup2.0 courtApp</string>
+    <string name="teama">TEAM A</string>
+    <string name="teamb">TEAM B</string>
+    <string name="freethrow">FREE THROW</string>
+    <string name="us2">+2 POINTS</string>
+    <string name="us3">+3 POINTS</string>
+    <string name="reset">RESET</string>
+    <string name="zero">0</string>
+</resources>
